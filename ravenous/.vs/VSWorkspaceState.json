@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\App",
+    "\\src\\components\\Business",
+    "\\src\\components\\BusinessList",
+    "\\src\\components\\SearchBar"
+  ],
+  "SelectedNode": "\\src\\components\\SearchBar\\SearchBar.js",
+  "PreviewInSolutionExplorer": false
+}
